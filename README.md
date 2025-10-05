@@ -77,3 +77,5 @@ I believe in **clarity, collaboration, and continuous learning**, and I enjoy me
 
 > “Technology should empower people, not complicate their lives.”  
 > — Leonardo Leite
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=LeonardoLeite.LeonardoLeite&left_text=You%20are%20the%20visitor%20nº)
