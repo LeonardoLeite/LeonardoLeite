@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+You are the ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LeonardoLeite.LeonardoLeite)
+
 <!--
 **LeonardoLeite/LeonardoLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
